@@ -2,3 +2,6 @@ pypdf
 openai
 pinecone
 dotenv
+fastapi
+numpy
+sqlite3
